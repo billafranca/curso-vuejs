@@ -1,1 +1,1 @@
-# curso-vuejs
+Projeto usando apenas o vue
